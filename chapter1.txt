@@ -1,1 +1,3 @@
-Hello Go My Code
+Hello GoMyCode
+
+I'm doing something new!
